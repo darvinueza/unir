@@ -6,7 +6,7 @@ password: HaiFa*20
 
 Dirección: mail.comunidadunir.net u office365.comunidadunir.net
 Usuario: dario.vinueza171@comunidadunir.net
-Contraseña: IanFarinely&2021
+Contraseña: IanFarinely&2022
 
 https://jira.unir.net/servicedesk/customer/portals 
 
