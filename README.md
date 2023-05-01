@@ -11,4 +11,8 @@ Contraseña: IanFarinely&2022
 https://jira.unir.net/servicedesk/customer/portals 
 
 
-TUTORA: BOLIVAR GOMEZ, MARIA ESTRELLA 
+TUTORA: BOLIVAR GOMEZ, MARIA ESTRELLA [maria.bolivar@unir.net]
+
+
+
+https://alumnosunir-my.sharepoint.com/:x:/g/personal/luis_pedraza_comunidadunir_net/EQGzxcmq0yZPi-KxEtaCjMYBTsRcpGoLpLqGvj3UII-f9A?e=qbq7Be
